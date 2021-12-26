@@ -12,29 +12,13 @@
 - Linear data Fitting은 `General linear least-square`를 통해서 한다.
 
 - 우리가 구해야할 식은 다음과 같고, 행렬로 표현할 수 있다.
-  - $$
-    x' = a_{1}x+a_{2}y+a_{3}
-    \\
-    y' = a_{4}x+a_{5}y+a_{6}
-    \\
-    x' =  \begin{bmatrix}x & y & 1 \end{bmatrix}  \begin{bmatrix}a_{1} \\ a_{2} \\ a_{3} \end{bmatrix}  
-    \\
-    y' = \begin{bmatrix}x & y & 1 \end{bmatrix}  \begin{bmatrix}a_{4} \\ a_{5} \\ a_{6} \end{bmatrix}
-    $$
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%239/2.png?raw=true" style="zoom:50%;" />
   
 - `General linear least-square`를 이용하면 다음의 식을 계산해서 `c`를 구하면 된다.
-  - $$
-    J^{T}Jc = J^{T}y
-    $$
-
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%239/1.png?raw=true" style="zoom:50%;" />
   - 이때 J는 위의 행렬식을 참고하면 다음과 같이 표현할 수 있다.
-  
-  - $$
-    J =  \begin{bmatrix}x_{1} & y_{1} & 1 \\ x_{2} & y_{2} & 1 \\ \vdots & \vdots & \vdots \\ x_{n} & y_{n} & 1 \end{bmatrix} 
-    $$
-  
-  - 
-  
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%239/3.png?raw=true" style="zoom:50%;" />
+
 - `x'`의 식을 구하는 함수는 다음과 같다. `J^T * J`를 구하고 `J^T * y`를 구한 후 `gaussj` 함수를 이용해서 해를 구한다.
 
   - ```c++
