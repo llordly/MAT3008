@@ -39,11 +39,7 @@ method의 실행 전 후를 기점으로 `clock()`를 통해 시간을 측정했
 모든 함수는 https://www.wolframalpha.com 의 결과와 비교했다.
 
 ### 1)
-- $$
-  f(x) = 10e^xsin(2\pi x) - 2 = 0 \;on\;[0.1, 1]
-  \\
-  f'(x) = 10e^{-x} * (2\pi cos(2\pi x) - sin(2\pi x))
-  $$
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/f1.png?raw=true" style="zoom:50%;" />
 
 <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/func1.png?raw=true" alt="func1" style="zoom:30%;" />
 
@@ -54,11 +50,7 @@ func1 in [0.1, 1]
 ```
 
 ### 2)
-- $$
-  f(x) =  x^2 - 2xe^{-2x} + e^{-2x} = 0\; on\; [0, 1]
-  \\
-  f''(x) = 2e^{-2x}\, *\, (e^x + 1)\, *\, (e^x * x - 1)
-  $$
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/f2.png?raw=true" style="zoom:50%;" />
 
 <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/func2.png?raw=true" alt="func2" style="zoom:30%;" />
 
@@ -69,11 +61,7 @@ func2 in [0, 1]
 2'th root: 0.5671432927
 ```
 ### 
-- $$
-  f(x) = cos(x + \sqrt{2}) + x(\frac{x}{2} + \sqrt{2}) = 0\; on\; [-2, 1]
-  \\
-  f'(x) = x - sin(x + \sqrt{2}) + \sqrt{2}
-  $$
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/f3.png?raw=true" style="zoom:50%;" />
 
 <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/func3.png?raw=true" alt="func3" style="zoom:33%;" />
 
@@ -84,11 +72,7 @@ func3 in [-2, -1]
 2'th root: 1.570796327
 ```
 ### Interesting nonlinear equation I want to solve
-- $$
-  f(x) = cos(x)ln(x) + sin(2x)
-  \\
-  f'(x) = \frac{cos(x)}{x} + 2cos(2x) - ln(x)sin(x)
-  $$
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/f4.png?raw=true" style="zoom:50%;" />
 
 <img src="https://github.com/llordly/MAT3008/blob/master/Homework%233/func4.png?raw=true" alt="func4" style="zoom:33%;" />
 
