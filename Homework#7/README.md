@@ -29,4 +29,4 @@
 
 ###  result
 
-<img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%237/homework%237.png" />
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%237/homework%237.png?raw=true" />

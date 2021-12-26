@@ -1,9 +1,9 @@
 # ****Homework#5****
 
-모든 문제의 풀이는 <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%235/main.cpp" target = "self" > main.cpp </A>에 존재한다.
+모든 문제의 풀이는 <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%235/main.cpp" target = "self" > main.cpp </A>에 존재한다.
 
 각 행렬의 정보는 다음과 같다.
-![matrix.png](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%235/matrix.png)
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%235/matrix.png?raw=true" alt="matrix.png" style="zoom:50%;" />
 
 실제로 첫번째 행렬의 경우 역행렬이 0으로 해가 존재하지 않거나 무수히 많다.
 

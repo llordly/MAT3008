@@ -1,10 +1,10 @@
-#  <center>Homework#10/center>
+#  <center>Homework#10</center>
 
 **컴퓨터소프트웨어학부 2017029589 류지범**
 
 ##  #0 
 
-- 소스코드는 <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%2310/main.py" target = "self" > main.py </A>에 존재한다.
+- 소스코드는 <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%2310/main.py" target = "self" > main.py </A>에 존재한다.
 - Python 3.8.5 환경에서 작성했다.
 - Left img와 right img를 받아서 크기를 resize후 특징점을 추출했다.
 
@@ -36,7 +36,7 @@
 ## #2 Hessian Matrix
 
 - 각 a에 대해 편미분한 결과는 다음과 같다.
-- <img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%2310/Hessian.jpeg" alt="Hessian" style="zoom:20%;" />
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%2310/Hessian.jpeg?raw=true" alt="Hessian" style="zoom:20%;" />
 
 - ```python
   def f(d, e, x, y):
@@ -223,4 +223,4 @@
 
 - 이 결과를 drawMatches를 이용해서 그려본 결과는 다음과 같다.
 
-- <img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%2310/descripter_result.jpg" alt="descripter_result" style="zoom:72%;" />
+- <img src="https://github.com/llordly/MAT3008/blob/master/Homework%2310/descripter_result.jpg?raw=true" style="zoom:72%;" />

@@ -1,11 +1,11 @@
 # ****Homework#4****
 
-모든 문제의 풀이는 <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%234/main.cpp" target = "self" > main.cpp </A>에 존재하고, 그래프는 python의 matplotlib로 그렸다.
+모든 문제의 풀이는 <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%234/main.cpp" target = "self" > main.cpp </A>에 존재하고, 그래프는 python의 matplotlib로 그렸다.
 
 ## 1. Find the root of f(R) = 0
 
 - 해당 식을 그래프로 표현하면 다음과 같다.
-![f(R)_graph.png](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%234/f(R)_graph.png)
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%234/f(R)_graph.png?raw=true" alt="f(R)_graph.png" style="zoom:33%;" />
 
 - 그래프를 보면 해는 `[0, 400]`에 있음을 알 수 있다.
 - 해는 bisection, linear, secant, newton-raphson, newton with bracketing method를 사용해서 구했고, `accuracy`는 `1e-4`, `1e-6`에 대하여 각각 구했다.
@@ -69,11 +69,11 @@ root: 328.1514291
 
 - 문제의 식의 형태를 바꾸고 값을 대입해서 정리하면 다음과 같다.
 
-![8-32.jpeg](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%234/8-32.jpeg)
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%234/8-32.jpeg?raw=true" alt="8-32.jpeg" style="zoom:33%;" />
 
 - 정리한 식에 대해서 그래프를 그려보면 다음과 같다.
 
-![8-32_graph.png](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%234/8-32_graph.png)
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%234/8-32_graph.png?raw=true" alt="8-32_graph.png" style="zoom:33%;" />
 
 - 해는 `[0.0, 0.5]`, `[1.0, 2.0]`에 존재함을 알 수 있다.
 
@@ -137,7 +137,7 @@ root: 1.50978514
 ## 3. Ploblem 8-36
 
 - 문제의 식에 대해 그래프를 그려보면 다음과 같다.
-![8-36_graph.png](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%234/8-36_graph.png)
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%234/8-36_graph.png?raw=true" alt="8-36_graph.png" style="zoom:33%;" />
 
 - 식의 해는 `[1000.0, 1500.0]`에 있음을 알 수 있다.
 

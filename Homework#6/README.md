@@ -6,8 +6,8 @@
 
 ## #0 Intro
 
-- Random Number Generation은 <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%236/main.cpp" target = "self" > main.cpp </A>에서 했다.
-- histogram은 <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%236/draw_histogram.py" target = "self" > draw_histogram.py </A>로 그렸다.
+- Random Number Generation은 <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%236/main.cpp" target = "self" > main.cpp </A>에서 했다.
+- histogram은 <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%236/draw_histogram.py" target = "self" > draw_histogram.py </A>로 그렸다.
 
 - Random Number Generation의 결과는 uniform_distribution_n.txt, gauss_distribution_n.txt (n은 sample의 수) 로 저장되도록 했고, python에서 이 파일들을 읽어서 histogram을 그리도록 했다.
 
@@ -34,7 +34,7 @@ for (int j = 0; j < sample; ++j) {
 
 ### result
 
-<img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%236/uniform_distribution.png" style="zoom:70%;" />
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%236/uniform_distribution.png?raw=true" style="zoom:70%;" />
 
 
 
@@ -61,10 +61,10 @@ for (int j = 0; j <sample; ++j) {
 
 ### result
 
-<img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%236/gauss_distribution.png" style="zoom:70%;" />
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%236/gauss_distribution.png?raw=true" style="zoom:70%;" />
 
 
 
 ## #3 Conclusion
 
-- 두 결과를 함께 나타내면 다음과 같다.<img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%236/distribution.png" style="zoom:80%;" />
+- 두 결과를 함께 나타내면 다음과 같다.<img src="https://github.com/llordly/MAT3008/blob/master/Homework%236/distribution.png?raw=true" style="zoom:80%;" />

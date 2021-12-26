@@ -11,10 +11,10 @@
 ## 2. Solve Problem
 ### 
 
-  
+
   ### 3.6
-  code in <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%232/3-6.cpp" target = "self" > 3-6.cpp </A>
-  
+  code in <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%232/3-6.cpp" target = "self" > 3-6.cpp </A>
+
 ```
   true value: 6.737949e-03
   first method: 6.745540e-03
@@ -32,7 +32,7 @@
 
 ```
   relative error is lower when terms are added 
-  
+
   ### 3.7
   #### 3 digit chopping
 ```
@@ -51,9 +51,9 @@
 - 1 - 3x^2 = 0.0013
 - 3.462 / 0.0013^2 = 2048520.710059171597633
 ```
-  
+
   ### 4.2
-code in <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/blob/master/Homework%232/4-2.cpp" target = "self" > 4-2.cpp </A>
+code in <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%232/4-2.cpp" target = "self" > 4-2.cpp </A>
 - `es = (0.5 * 10^(2-n))% = 0.005` is two significant figures 
 - `et` is relative error and `ea`is Approximate relative error
 - program will terminate when `ea < es`
@@ -80,8 +80,9 @@ program terminate with 3 step
   - `(554 - 554) / 554 = 0%`
   
   ### 4.12
-- solution process is in <A href = "https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%232/4-12.jpeg" target = "self" > 4-12.jpeg </A>
-- ![4-12.jpeg](https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%232/4-12.jpeg)
+- solution process is in <A href = "https://github.com/llordly/MAT3008/blob/master/Homework%232/4-12.jpeg?raw=true" target = "self" > 4-12.jpeg </A>
+- ![4-12.jpeg](https://github.com/llordly/MAT3008/blob/master/Homework%232/4-12.jpeg?raw=true)
+  
   #### result
 ```
   30.484 ± 2.776

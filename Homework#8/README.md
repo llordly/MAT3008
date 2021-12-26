@@ -13,7 +13,7 @@
 
 - `Bilinear Interpolation`을 그림으로 표현하면 다음과 같다.
 
-<img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%238/bi_linear.jpeg" alt="bi_linear" style="zoom:40%;" />
+<img src="https://github.com/llordly/MAT3008/blob/master/Homework%238/bi_linear.jpeg?raw=true" alt="bi_linear" style="zoom:40%;" />
 
 - 원본 크기와 resize된 크기의 비율을 구해서 resize될 이미지의 좌표를 구한다.
 
@@ -30,9 +30,9 @@
 ## #2 Result
 
 - 원본 사진 (1343 * 1080, 2021 Mr.O Classic Physique Champ)
-  - <img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%238/chris.jpg" alt="chris" style="zoom:40%;" />
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%238/chris.jpg?raw=true" alt="chris" style="zoom:40%;" />
 - 1920 * 1080으로 만들기 위해 n에 1080, m에 1920을 준 결과는 다음과 같다.
-  - <img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%238/result.jpg" alt="result" style="zoom:30%;" />
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%238/result.jpg?raw=true" alt="result" style="zoom:30%;" />
 
 - 100 * 100으로 만들기 위해 n에 100, m에 100을 준 결과는 다음과 같다.
-  - <img src="https://hconnect.hanyang.ac.kr/2021_MAT3008_11255/2021_mat3008_2017029589/-/raw/master/Homework%238/result100.jpg" alt="result" style="zoom:100%;" />
+  - <img src="https://github.com/llordly/MAT3008/blob/master/Homework%238/result100.jpg?raw=true" alt="result" style="zoom:100%;" />
